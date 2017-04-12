@@ -1,0 +1,2 @@
+# CQRS-workout
+CQRS workout
